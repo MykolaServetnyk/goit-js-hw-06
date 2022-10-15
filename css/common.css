@@ -27,6 +27,7 @@ button {
   display: flex;
   padding-left: 0;
   gap: 10px;
+  list-style: none;
 }
 
 .gallery__img {
